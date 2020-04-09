@@ -6,6 +6,9 @@ We have put up a new folder for a Product Breakdown Structure - where it´s easy
 CAD
 We have added a Fusion360 design.
 
+STL
+Started to put the right orientation of the part to print.
+
 #BCN3D MOVEO
 
 This is the repository that contains the CAD files, the STL files, the user manual (with the assembly manual), the firmware, and the Bill of Materials of the BCN3D Moveo.
