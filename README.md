@@ -4,11 +4,13 @@ Changes:
 We have put up a new folder for a Product Breakdown Structure - where it´s easy to see what parts needed and in which phase the project are in right now. This is also possible to modify if we want to 3d print parts or maybe CNC-parts.
 
 CAD
+
 We have added a Fusion360 design.
 
 STL
 
 Started to put the right orientation of the part to print.
+Also uploaded new parts that replace the old parts - the new parts are marked NordThing.
 
 #BCN3D MOVEO
 
