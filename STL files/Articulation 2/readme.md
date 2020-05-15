@@ -1,4 +1,4 @@
-I have uploaded new files with the correct rotation to print the parts. As they are in the original folder you have to rotate them to get them in the right direction.
+I have uploaded new files with the correct rotation to print the parts. As they are in the original folder you have to rotate them to get them in the right direction. Have also put comment here on which of the part that you need to print with support. 
 
 21(22) - print time - 1h 55min - 0.1mm layer height - 50% infill - 150mm/sec - PLA - Printed in 101.25% in X and Y to compensate for shrinkage in the plastic
 
