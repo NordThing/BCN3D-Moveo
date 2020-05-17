@@ -9,8 +9,8 @@ We have added a Fusion360 design.
 
 #STL
 
-Started to put the right orientation of the part to print.
-Also uploaded new parts that replace the old parts - the new parts are marked NordThing.
+Put the right orientation of the part to print and also included if support is needed or not.
+New parts marked as Nordthing in the end of the files - the original files is still in the folder - with the original name.
 
 
 ## BCN3D MOVEO - ORIGINAL BELOW THIS LINE
