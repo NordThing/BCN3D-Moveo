@@ -1,4 +1,4 @@
-## NordThing
+## NordThing - What we have modified below this line
 
 Changes:
 We have put up a new folder for a Product Breakdown Structure - where it´s easy to see what parts needed and in which phase the project are in right now. This is also possible to modify if we want to 3d print parts or maybe CNC-parts.
@@ -13,7 +13,7 @@ Started to put the right orientation of the part to print.
 Also uploaded new parts that replace the old parts - the new parts are marked NordThing.
 
 
-#BCN3D MOVEO
+## BCN3D MOVEO - ORIGINAL BELOW THIS LINE
 
 This is the repository that contains the CAD files, the STL files, the user manual (with the assembly manual), the firmware, and the Bill of Materials of the BCN3D Moveo.
 BCN3D Technologies keeps taking important steps in order to achieve his goal of bringing the digital manufacturing technology to everyone. In this occasion we are presenting the BCN3D Moveo, a robotic arm design from scratch and developed by our engineers in collaboration with the Departament d’Ensenyament from the Generalitat de Catalunya. Its structure is fully printed using additive manufacturing technologies and its electronics are controlled by the software Arduino.
