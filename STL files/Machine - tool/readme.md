@@ -4,3 +4,5 @@ Top plate - print time - 47 min - 0.2mm layer height - 20% infill - support - 15
 
 Bottom plate - print time - 45 min - 0.2mm layer height - 20% infill - support - 150mm/sec - PLA - Printed in 101.25 in X and Y to compensate for shrinkage in the plastic.
 
+Ciliner x 2 - Pivot arm - Servo gear - 1h 20 min - 20%  infill - no support - 100mm/sec - PLA - Printed in 101.25 in X and Y to compensate for shrinkage in the plastic
+
