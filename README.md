@@ -4,6 +4,7 @@ Changes:
 We have put up a new folder for a Product Breakdown Structure - where it´s easy to see what parts needed and in which phase the project are in right now. This is also possible to modify if we want to 3d print parts or maybe CNC-parts.
 
 #BOM 
+
 Added a file that are changeable and also a progress file for me us as we continue our project
 
 
