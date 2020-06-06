@@ -1,6 +1,6 @@
 I have uploaded new files with the correct rotation to print the parts. As they are in the original folder you have to rotate them to get them in the right direction.
 
-To print the files you need a print bed with the minimun footprint of 200x200x200mm. If you have this you will be able to print all parts. I think - I have not print all the parts yet so I have to see if this is enough.
+To print the files you need a print bed with the minimun footprint of 200x200x200mm. If you have this you will be able to print all parts. 
 
 Right now 
 
