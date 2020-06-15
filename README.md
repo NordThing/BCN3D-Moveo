@@ -1,4 +1,9 @@
-## NordThing - What we have modified below this line
+## NordThing - What we want to achieve
+Make the robotic - and after that try to improve the overall part-list. Now it´s a lot of sourcing of different parts.
+It would be nice to minimize the different kind of screws needed.
+
+
+#What we have modified below this line
 
 Changes:
 We have put up a new folder for a Product Breakdown Structure - where it´s easy to see what parts needed and in which phase the project are in right now. This is also possible to modify if we want to 3d print parts or maybe CNC-parts.
