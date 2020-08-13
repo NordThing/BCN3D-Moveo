@@ -21,6 +21,7 @@ We have added a Fusion360 design.
 
 Put the right orientation of the part to print and also included if support is needed or not.
 New parts marked as Nordthing in the end of the files - the original files is still in the folder - with the original name.
+
 Added a picture to ever part that is printed.
 
 
